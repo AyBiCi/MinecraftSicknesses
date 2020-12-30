@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinecraftSicknesses:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinecraftSicknesses_jar</output-path>
+    <root id="archive" name="MinecraftSicknesses.jar">
+      <element id="module-output" name="MinecraftSicknesses" />
+    </root>
+  </artifact>
+</component>
