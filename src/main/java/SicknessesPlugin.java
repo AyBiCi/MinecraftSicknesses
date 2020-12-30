@@ -1,3 +1,3 @@
-public class SicnessesPlugin {
+public class SicknessesPlugin {
 
 }
